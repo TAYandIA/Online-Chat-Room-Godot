@@ -6,3 +6,4 @@ Online Chat Room that I made in Godot
 
 https://github.com/user-attachments/assets/efd498f5-8aeb-4b19-9863-b1d285a98d25
 
+Putting your name doesn't work.
